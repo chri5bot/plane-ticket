@@ -7,13 +7,13 @@ export default function Home() {
           all your loved ones &#127877;. I am very proud of you and I am also
           happy to be a part of your life. Enjoy this day a lot.
         </p>
-        <div className="fixed bottom-0 left-0 flex h-48 w-full items-end justify-center bg-gradient-to-t from-white via-white dark:from-black dark:via-black lg:static lg:h-auto lg:w-auto lg:bg-none">
+        <div className="fixed bottom-0 left-0 flex h-4 w-full items-end justify-center bg-gradient-to-t from-white via-white dark:from-black dark:via-black lg:static lg:h-auto lg:w-auto lg:bg-none">
           <div className="pointer-events-none flex place-items-center gap-2 p-8 lg:pointer-events-auto lg:p-0">
-            footer
+            JO JO JO &#127877; att Chris
           </div>
         </div>
       </div>
-      <div className="mb-32 grid text-center lg:max-w-5xl lg:w-full lg:mb-0 lg:grid-cols-4 lg:text-left">
+      <div className="grid text-center lg:max-w-5xl lg:w-full lg:mb-0 lg:grid-cols-4 lg:text-left">
         <div className="max-w-md w-full h-full mx-auto z-10 bg-stone-50 rounded-3xl">
           <div className="flex flex-col">
             <div className="bg-white relative drop-shadow-2xl  rounded-3xl p-4 m-4">
@@ -47,21 +47,20 @@ export default function Home() {
                           className="h-8 p-1"
                         />
                       </span>
-                      <h2 className="font-medium">Airindia</h2>
+                      <h2 className="font-medium">LATAM</h2>
                     </div>
-                    <div className="ml-auto text-blue-800">A380</div>
+                    <div className="ml-auto text-blue-800">LA1454</div>
                   </div>
                   <div className="border-b border-dashed border-b-2 my-5"></div>
                   <div className="flex items-center">
                     <div className="flex flex-col">
                       <div className="flex-auto text-xs text-gray-400 my-1">
-                        <span className="mr-1 ">MO</span>
-                        <span>19 22</span>
+                        <span className="mr-1 ">FR</span>
                       </div>
                       <div className="w-full flex-none text-lg text-blue-800 font-bold leading-none">
-                        COK
+                        UIO
                       </div>
-                      <div className="text-xs">Cochi</div>
+                      <div className="text-xs">ECU</div>
                     </div>
                     <div className="flex flex-col mx-auto">
                       <img
@@ -71,13 +70,12 @@ export default function Home() {
                     </div>
                     <div className="flex flex-col ">
                       <div className="flex-auto text-xs text-gray-400 my-1">
-                        <span className="mr-1">MO</span>
-                        <span>19 22</span>
+                        <span className="mr-1">FR</span>
                       </div>
                       <div className="w-full flex-none text-lg text-blue-800 font-bold leading-none">
-                        DXB
+                        MIA
                       </div>
-                      <div className="text-xs">Dubai</div>
+                      <div className="text-xs">USA</div>
                     </div>
                   </div>
                   <div className="border-b border-dashed border-b-2 my-5 pt-5">
@@ -94,18 +92,14 @@ export default function Home() {
                       <div className="font-semibold">B3</div>
                     </div>
                   </div>
-                  <div className="flex items-center mb-4 px-5">
+                  <div className="flex items-center mb-4 px-5 justify-between">
                     <div className="flex flex-col text-sm">
                       <span className="">Board</span>
-                      <div className="font-semibold">11:50AM</div>
-                    </div>
-                    <div className="flex flex-col mx-auto text-sm">
-                      <span className="">Departs</span>
-                      <div className="font-semibold">11:30Am</div>
+                      <div className="font-semibold">09:11AM</div>
                     </div>
                     <div className="flex flex-col text-sm">
                       <span className="">Arrived</span>
-                      <div className="font-semibold">2:00PM</div>
+                      <div className="font-semibold">1:25PM</div>
                     </div>
                   </div>
                   <div className="border-b border-dashed border-b-2 my-5 pt-5">
@@ -115,15 +109,15 @@ export default function Home() {
                   <div className="flex items-center px-5 pt-3 text-sm">
                     <div className="flex flex-col">
                       <span className="">Passanger</span>
-                      <div className="font-semibold">Ajimon</div>
+                      <div className="font-semibold">La Lucita</div>
                     </div>
                     <div className="flex flex-col mx-auto">
                       <span className="">Class</span>
-                      <div className="font-semibold">Economic</div>
+                      <div className="font-semibold">&#128155;</div>
                     </div>
                     <div className="flex flex-col">
                       <span className="">Seat</span>
-                      <div className="font-semibold">12 E</div>
+                      <div className="font-semibold">#1</div>
                     </div>
                   </div>
                   <div className="flex flex-col py-5  justify-center text-sm ">
