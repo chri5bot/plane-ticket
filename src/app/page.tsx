@@ -50,9 +50,6 @@ export default function Home() {
                   <div className="border-b border-dashed border-b-2 my-5"></div>
                   <div className="flex items-center">
                     <div className="flex flex-col">
-                      <div className="flex-auto text-xs text-gray-400 my-1">
-                        <span className="mr-1 ">FR</span>
-                      </div>
                       <div className="w-full flex-none text-lg text-blue-800 font-bold leading-none">
                         UIO
                       </div>
@@ -65,9 +62,6 @@ export default function Home() {
                       />
                     </div>
                     <div className="flex flex-col ">
-                      <div className="flex-auto text-xs text-gray-400 my-1">
-                        <span className="mr-1">FR</span>
-                      </div>
                       <div className="w-full flex-none text-lg text-blue-800 font-bold leading-none">
                         MIA
                       </div>
